@@ -1,4 +1,3 @@
 # Okupter
 
-We are your Svelte and SvelteKit specialists.
-We help early-stage startups and SMBs improve their online presence with **web applications**, **landing pages**, **marketing websites**, and **MVP development**.
+Okupter is an MVP as a Service web agency that **helps early-stage startups and Indie Hackers ship their MVPs in less than 60 days**.
