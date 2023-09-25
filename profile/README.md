@@ -1,5 +1,7 @@
 # Okupter
 
-Okupter is an MVP as a Service web agency that **helps early-stage startups and Indie Hackers ship their MVPs in less than 60 days**.
+At Okupter, we provide expert **technical consulting**, **training**, and **support** tailored to your Svelte/SvelteKit needs, helping you solve intricate problems and build robust, high-performance web applications.
 
-For more information about our work, check [our website](https://www.okupter.com) or [book a free discovery call](https://cal.com/segbedji/okupter-discovery-call).
+That means we'll build your web apps for you using Svelte, or we'll teach you how to do it yourself.
+
+[okupter.com](https://www.okupter.com)
